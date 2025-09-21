@@ -1,0 +1,5 @@
+Sample Contract Agreement
+Clause 1: The agreement shall automatically renew for a period of 12 months unless terminated in writing.
+Clause 2: Tenant shall pay a late fee of $50 for every overdue payment.
+Clause 3: The landlord shall not be liable for any damages to personal property.
+End of Contract

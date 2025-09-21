@@ -1,0 +1,10 @@
+Subject enrichment schedule @
+G4-7 (4.8.25-30.8.25)
+Day/Grade Grade 4 Grade 5 G 6 CAIE G 6 CBSE G7 CAIE G7
+CBSE
+MON Math Math Math Science Math Bio
+TUE Math Math Math Science Math Chem
+WED 2 L Eng Math Eng Chem Phy
+THR Eng 2 L Sci Math Phy Eng
+FRI Sci Math Bio Math
+SAT ICT 2L Bio ICT

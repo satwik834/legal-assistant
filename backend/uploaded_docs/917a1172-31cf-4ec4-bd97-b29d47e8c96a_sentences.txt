@@ -1,0 +1,75 @@
+DEPARTMENT OF COMPTER SCIENCE & ENGINEERING : VRSEC 
+B.TECH CSE(ARTIFICIAL INTELLIGENCE & MACHINE LEARNING) 
+ 
+Timetable for III/IV B.Tech
+I Semester 
+ 
+Sec A    Room
+No: CS412              w.e.f: 28.07.2025 
+ 
+Day/ Time  8.40A
+M – 
+9.30A
+M 9.30AM – 
+10.20AM 10.20AM-  
+11.10AM 11.10A
+M- 
+11.20A
+M 11.20AM – 
+12.10PM 12.10PM – 
+1.00PM 1.00P
+M – 
+2.00P
+M 2.00P
+M – 
+2.50P
+M 2.50P
+M – 
+3.40P
+M 3.40P
+M – 
+4.30P
+M 
+Monday OE I 23AI&ML5301 PEI  23AI&ML53
+03 23AI&ML5302  23TP510
+6  23ES5156  
+Tuesday OE I 23AI&ML53
+01 PEI 23AI&ML530
+2 23AI&ML53
+03 ELITE 
+Wednesd
+ay OE I 23TP5106 23AI&ML53
+03  23ES5156   23AI&ML5351  
+Thursday   23AI&ML5301 23AI&ML53
+02 PE I 23AI&ML5303   
+Friday  23AI&ML5301 23AI&ML53
+02  23HS5153   23AI&ML5352  
+Saturday   PEI 23AI&ML53
+02  23AI&ML5607
+ Co-curricular Activities  
+ 
+23AI&ML5301 – Deep Learning  :
+Dr K Purna Prakash 
+23AI&ML5302 – Computer Networks  : Mrs K Siva Sairam Prasad 
+23AI&ML5303 – Operating Systems  : Mrs V Lavanya 
+23AI&ML5404A – Automata & Compiler Design  :
+Mr V Sandeep 
+23AI&ML5404B – Natural Language Processing  :
+Dr T Bindu Madhavi 
+23AI&ML5404C – Internet of Things   :
+Dr KL Sailaja 
+23AI&ML5404D – Exploratory Data Analysis   :
+Mr Venkat P Dendukuri 
+23AI&ML5404E – Software Engineering   :  Mrs KS Vijaya Lakshmi 
+23AI&ML5351- Deep Learning Lab   :
+Dr K Purna Prakash/ Mrs T Raja rajeswari 
+23AI&ML5352- Operating systems Lab   :   Mrs V Lavanya/ Dr K Keerthi
+23HS5155- Advanced Communication skills Lab  :   Dr M Jayaranjan/ Dr G Pavani 
+23TP5106- Personality Development  :
+Dr D sridevi 
+23AI&ML5653 – Full Stack development II  :  Mrs T Malleswari 
+23AI&ML5554 - EPICS            :
+Mr S ravi Kishan/ Mrs V Lavanya 
+23MC5107A - Technical paper Writing & IPR           : 
+23ES5156 – User Interface Design Using Flutter           :
+Mrs G Indra Sree
